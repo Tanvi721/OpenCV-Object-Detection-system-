@@ -44,7 +44,6 @@ python detect.py --image data/sample.jpg
 
 Detect objects in a video/webcam
 python detect.py --video data/sample.mp4
-# or
 python detect.py --webcam
 
 Train on custom dataset
